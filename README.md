@@ -3,7 +3,9 @@ BiTeN
 <img align="right" src="img/IRD.png" width="200" height="66" /> <img align="right" src="img/MIVEGEC.png" width="100" height="66" />
 <h2><em>Bi</em>oinformatics <em>Te</em>mplate in <em>Ne</em>xtflow</h2>  
 
-BiTeN is a short pipeline written in nextflow that aims to be used as a template for nextflow pipeline development.
+BiTeN is a short pipeline written in nextflow that aims to be used as a template for nextflow pipeline development.  
+
+Nextflow is a free, open source software project that facilitates the execution of a computational workflow consisting of a series of interconnected steps/tasks. Utilizing Nextflow can take various forms. This repository offers a specific example illustrating how a bioinformatician can organize their code to be executed using Nextflow.
 
 ## Table of Contents
 
@@ -26,10 +28,10 @@ BiTeN is a short pipeline written in nextflow that aims to be used as a template
 
 ## Foreword
 
-The pipeline and this readme can be use as template for nextflow pipeline development.
+The pipeline and the whole repositpry (readme/Contributing/etc) can be use as template for nextflow pipeline projects.
 Comment in pipeline's code help the user to better understand the different usages. 
 
-This pipeline template does the following thing:
+This pipeline template follow the following steps:
 
 - handling parameters, file input and help (Deal with gz and not gz file, deal with paired and unpaired input reads, etc.)
 - QC
