@@ -1,5 +1,5 @@
-# BiTeN 
-=========================================  
+BiTeN
+=========================================
 <img align="right" src="img/IRD.png" width="200" height="66" /> <img align="right" src="img/MIVEGEC.png" width="100" height="66" />
 <h2><em>Bi</em>oinformatics <em>Te</em>mplate in <em>Ne</em>xtflow</h2>  
 
