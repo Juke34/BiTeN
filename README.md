@@ -110,6 +110,7 @@ cd BiTeN
 
     <details>
       <summary>See here</summary>
+      
       ```
       conda create -n nextflow
       conda activate nextflow
