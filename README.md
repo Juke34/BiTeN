@@ -20,7 +20,7 @@ BiTeN is a short pipeline written in nextflow that aims to be used as a template
    * [Parameters](#parameters)
    * [Uninstall](#uninstall)
    * [Contributing](#contributing)
-   # [Report bugs and issues](#report-bugs-and-issues)
+   * [Report bugs and issues](#report-bugs-and-issues)
    * [How to cite?](#how-to-cite)
    * [Acknowledgement](#acknowledgement)
 
