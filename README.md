@@ -64,8 +64,8 @@ This pipeline template follow the following steps:
     │   │   └── local.config   # A local configuration that define computing ressource on local machine (CPU, TimeOut, RAM per process/label).
     │   └── softwares.config   # A software configuration that define where Nextflow have to fetch the container of each tool.
     └── test                   # Folder containing a test data set 
-        ├── read_test.fastq.gz
-        └── genome_test.fa
+        ├── reads.fastq.gz
+        └── genome.fa
 
 
 ### Helping to develop
@@ -177,7 +177,7 @@ Test data are included in the BiTeN repository in the `test` folder.
 A typical command to run a test on single end data will look like that:
 
 ```
-nextflow run -profile docker BiTeN.nf --genome test/hpv16.fa --reads test/U2OS_A1_R1_sub100000.fastq --single_end true --reads_extension .fastq
+nextflow run -profile local,docker main.nf --genome test/genome.fa --reads test --single_end true
 ```
 
 On success you should get a message looking like this:
