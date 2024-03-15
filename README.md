@@ -11,7 +11,7 @@ BiTeN is a short pipeline written in nextflow that aims to be used as a template
      * [Project layout](#project-layout)
      * [Helping to develop](#helping-to-develop)
    * [Installation](#installation)
-      * [BiTeN](#biten)
+      * [BiTeN](#biten-1)
       * [Nextflow](#nextflow)
       * [Container platform](#container-platform)
         * [Docker](#docker)
