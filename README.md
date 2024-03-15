@@ -1,7 +1,8 @@
-BiTeN
-=========================================
-<img align="right" src="img/IRD.png" width="200" height="66" /> <img align="right" src="img/MIVEGEC.png" width="100" height="66" />
+<img src="img/biten.png" width="200" height="124" />
+
 <h2><em>Bi</em>oinformatics <em>Te</em>mplate in <em>Ne</em>xtflow</h2>  
+
+<img align="right" src="img/IRD.png" width="200" height="66" /> <img align="right" src="img/MIVEGEC.png" width="100" height="66" />  
 
 BiTeN is a short pipeline written in nextflow that aims to be used as a template for nextflow pipeline development.  
 
@@ -13,7 +14,7 @@ Nextflow is a free, open source software project that facilitates the execution 
      * [Project layout](#project-layout)
      * [Helping to develop](#helping-to-develop)
    * [Installation](#installation)
-      * [BiTeN](#biten-1)
+      * [BiTeN](#biten)
       * [Nextflow](#nextflow)
       * [Container platform](#container-platform)
         * [Docker](#docker)
@@ -28,7 +29,7 @@ Nextflow is a free, open source software project that facilitates the execution 
 
 ## Foreword
 
-The pipeline and the whole repositpry (readme/Contributing/etc) can be use as template for nextflow pipeline projects.
+The pipeline and the whole repository (readme/Contributing/etc) can be use as template for nextflow pipeline projects.
 Comment in pipeline's code help the user to better understand the different usages. 
 
 This pipeline template follow the following steps:
