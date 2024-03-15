@@ -217,7 +217,7 @@ Found a bug or have a question? Please open an [issue](https://github.com/Juke34
 
 If you use this template for your developement please cite or acknowledge e.g.
 
-Development based on the BiTeN template (https://github.com/Juke34/BiTeN) made by Dainat J. <here put commit version> 
+Development based on the BiTeN template (https://github.com/Juke34/BiTeN), Dainat J. <here put commit version> 
 
 # Acknowledgement
 
