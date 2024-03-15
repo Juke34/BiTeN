@@ -194,15 +194,15 @@ On success you should get a message looking like this:
 
 ## Parameters
 
-      | Parameter | Comment |
-      | --- | --- |
-      | --help           | prints the help section |
-      | --reads          | path to the directory containing the reads |
-      | --pattern_reads  | pattern to match the read files. In the case of single end data it would looks like: "*.fastq.gz". In the case of paired end data it would looks like: "*_{R1,R2}_001.fastq.gz" or "*_{1,2}.fastq.gz" |
-      | --single_end     | Boolean to inform if we have a single end or paired end data. |
-      | --stranded       | Boolean to inform if we have a single or stranded data. |
-      |  --genome        | path to the genome file in fasta format. |
-      | --bowtie2_options | Parameter to tune the bowtie2 aligner behaviour. |
+| Parameter | Comment |
+| --- | --- |
+| --help           | prints the help section |
+| --reads          | path to the directory containing the reads |
+| --pattern_reads  | pattern to match the read files. In the case of single end data it would looks like: "*.fastq.gz". In the case of paired end data it would looks like: "*_{R1,R2}_001.fastq.gz" or "*_{1,2}.fastq.gz" |
+| --single_end     | Boolean to inform if we have a single end or paired end data. |
+| --stranded       | Boolean to inform if we have a single or stranded data. |
+|  --genome        | path to the genome file in fasta format. |
+| --bowtie2_options | Parameter to tune the bowtie2 aligner behaviour. |
 
 ## Contributing
 
