@@ -11,7 +11,7 @@ BiTeN is a short pipeline written in nextflow that aims to be used as a template
      * [Project layout](#project-layout)
      * [Helping to develop](#helping-to-develop)
    * [Installation](#installation)
-      * [AliNe](#aline)
+      * [BiTeN](#biten)
       * [Nextflow](#nextflow)
       * [Container platform](#container-platform)
         * [Docker](#docker)
@@ -156,7 +156,7 @@ To run the workflow you must select a profile according to the container platfor
 
 The command will look like that: 
 ```
-nextflow run aline.nf -profile docker <rest of paramaters>
+nextflow run main.nf -profile docker <rest of paramaters>
 ```
 Another profile is available (/!\\Work in progress):
 
@@ -169,7 +169,7 @@ nextflow run main.nf -profile docker,slurm <rest of paramaters>
 
 ## Test the workflow
 
-Test data are included in the AliNe repository in the `test` folder.
+Test data are included in the BiTeN repository in the `test` folder.
 
 A typical command to run a test on single end data will look like that:
 
