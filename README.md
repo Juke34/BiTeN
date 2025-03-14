@@ -74,8 +74,7 @@ This pipeline template follow the following steps:
 
  * [Nextflow Documentation](https://www.nextflow.io/docs/latest/index.html) The official nextflow documentation very well written. Do not hesitate to extensively use the search bar!
  * [Basic pipeline example from nextflow.io](https://www.nextflow.io/example1.html) Do not hesitate to look at other examples
- * [Nextflow Training Fundamentals](https://training.nextflow.io/basic_training/) The offical training module from nextflow.io to learn the fundamentals.
- * [Nextflow Training Advanded](https://training.nextflow.io/advanced/) The offical training module from nextflow.io for advanced users.
+ * [Nextflow Training from Fundamentals to Advanced](https://training.nextflow.io/latest/) The offical trainings from nextflow.io.
  * [Nextflow Cheat Sheet](https://github.com/danrlu/nextflow_cheatsheet/blob/main/nextflow_cheatsheet.pdf) A nice nextflow cheat sheet made by @dabrlu .
  * [Software Carpentry Nextflow training](https://carpentries-incubator.github.io/workflows-nextflow/index.html). High quality course made by the [Software Carpentry](https://software-carpentry.org).
  * [Bioinformatics Workshop on Tools for Reproducible Research - Nextflow](https://southgreenplatform.github.io/training_reproducible_research/pages/nextflow/nextflow-1-introduction/) A course based on [NBIS material](https://github.com/NBISweden/workshop-reproducible-research) to learn Nextflow basics.
@@ -85,6 +84,11 @@ This pipeline template follow the following steps:
  * [Nextflow Slack](https://www.nextflow.io/slack-invite.html)
  * [Nf-core](https://nf-co.re/) A community effort to collect a curated set of analysis pipelines built using Nextflow.
  * [Seqera Community](https://community.seqera.io/)
+
+**Monitoring Nextflow Pipeline**
+
+ * [nf-tower](https://github.com/seqeralabs/nf-tower)
+ * [nf-shard](https://github.com/gluonfield/nf-shard)
 
 ## Installation
 
