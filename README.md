@@ -73,9 +73,13 @@ This pipeline template follow the following steps:
 **Documentation**
 
  * [Nextflow Documentation](https://www.nextflow.io/docs/latest/index.html) The official nextflow documentation very well written. Do not hesitate to extensively use the search bar!
- * [Basic pipeline example from nextflow.io](https://www.nextflow.io/example1.html) Do not hesitate to look at other examples
- * [Nextflow Training from Fundamentals to Advanced](https://training.nextflow.io/latest/) The offical trainings from nextflow.io.
  * [Nextflow Cheat Sheet](https://github.com/danrlu/nextflow_cheatsheet/blob/main/nextflow_cheatsheet.pdf) A nice nextflow cheat sheet made by @dabrlu .
+ * [Basic pipeline example from nextflow.io](https://www.nextflow.io/example1.html) Do not hesitate to look at other examples
+
+**Training**
+ * [Nextflow Training from Fundamentals to Advanced](https://training.nextflow.io/latest/) The offical trainings from nextflow.io.
+ * [Nextflow workshop for beginners - by vagkaratzas](https://github.com/vagkaratzas/nextflow-beginners-workshop)
+ * [nf-core Training - by Zemzemfiras1](https://github.com/Zemzemfiras1/nf-core-pre-hackathon_training2025)
  * [Software Carpentry Nextflow training](https://carpentries-incubator.github.io/workflows-nextflow/index.html). High quality course made by the [Software Carpentry](https://software-carpentry.org).
  * [Bioinformatics Workshop on Tools for Reproducible Research - Nextflow](https://southgreenplatform.github.io/training_reproducible_research/pages/nextflow/nextflow-1-introduction/) A course based on [NBIS material](https://github.com/NBISweden/workshop-reproducible-research) to learn Nextflow basics.
 
